@@ -54,7 +54,7 @@ unified-memory-forensics/
 ## Installation
 
 ### Prerequisites
-- Python 3.11+
+- Python 3.9+
 - Windows/Linux/macOS
 - 16GB+ RAM recommended
 

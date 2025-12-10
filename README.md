@@ -379,7 +379,7 @@ MIT License - See LICENSE file for details.
 ## Author
 
 **Manoj Santhoju**  
-MSc Cybersecurity Student  
+MSc Cybersecurity 
 National College of Ireland
 
 ---
